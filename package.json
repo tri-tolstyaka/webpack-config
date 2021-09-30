@@ -2,6 +2,7 @@
   "name": "@tri-tolstiaka/webpack-config",
   "version": "1.0.2",
   "description": "",
+  "main": "./lib/index.js",
   "scripts": {
     "start": "webpack --mode=production",
     "new:version": "npm publish --access public"
