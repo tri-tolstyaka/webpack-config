@@ -2,7 +2,6 @@
   "name": "@tri-tolstiaka/webpack-config",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "webpack --mode=production",
     "new:version": "npm publish --access public"
